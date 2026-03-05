@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme_AppCompat_Landscape" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:screenOrientation">landscape</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
